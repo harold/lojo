@@ -6,7 +6,8 @@ Clojure turtle graphics.
 
 ```[lojo "0.0.1"]```
 
-```(start)
+```
+(start)
 (forward 100)
 (left 90)
 (forward 100)
@@ -24,6 +25,7 @@ Clojure turtle graphics.
 (home)
 (clear)
 
-(dotimes [_ 20] (left 18) (dotimes [_ 6] (forward 100) (left 60)))```
+(dotimes [_ 20] (left 18) (dotimes [_ 6] (forward 100) (left 60)))
+```
 
 ![nice](./nice.png)
