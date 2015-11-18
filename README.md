@@ -25,3 +25,5 @@ Clojure turtle graphics.
 (clear)
 
 (dotimes [_ 20] (left 18) (dotimes [_ 6] (forward 100) (left 60)))```
+
+![nice](./nice.png)
