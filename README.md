@@ -8,6 +8,7 @@ Clojure turtle graphics.
 
 ```
 (start)
+
 (forward 100)
 (left 90)
 (forward 100)
@@ -15,7 +16,6 @@ Clojure turtle graphics.
 (forward 100)
 (left 90)
 (forward 100)
-(left 90)
 
 (home)
 (clear)
